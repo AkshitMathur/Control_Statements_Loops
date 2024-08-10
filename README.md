@@ -120,3 +120,6 @@ int main() {
 
 #### Output:
 4. The reversed number is printed to the console.
+
+### Conclusion:
+From This experiment We have learned and understand the use the for Loops and While loops in the programs.
